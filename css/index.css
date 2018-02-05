@@ -27,4 +27,11 @@ body,ul,li,h1,h2,h3,h4,a{
 .nav .first{
 	text-align: left;
 	padding-left: 30px;
+	color: #fff;
+}
+.nav .first span:hover{
+	cursor: pointer;
+}
+.nav span{
+	color: #fff;
 }
