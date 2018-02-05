@@ -608,10 +608,10 @@ fieldset[disabled] .btn-theme {
 
 /* Navbar Logo */
 .header .logo {
-  width: 100px;
+  width: 160px;
   height: 100px;
   float: left;
-  max-height: 95px;
+  max-height: 150px;
   line-height: 65px;
 }
 
@@ -626,10 +626,9 @@ fieldset[disabled] .btn-theme {
 
 .header .logo-img {
   display: inline-block;
-  width: 64px;
+  width: 150px;
+  height: 30px;
   height: auto;
-  max-width: 100%;
-  max-height: 100%;
   vertical-align: middle;
 }
 
